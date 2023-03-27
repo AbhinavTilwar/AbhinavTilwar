@@ -15,7 +15,7 @@ Apart from being an enthusiastic learner, I also enjoy sharing my knowledge and 
 
 ### About Me 🚀
 Here are some ideas to get you started:		
-<img align="right" alt="SVG" src="https://user-images.githubusercontent.com/63442418/227835127-ff0951ce-0de4-4d73-bc3a-5288e86a84c0.svg" width="320px" />
+<img align="right" alt="SVG" src="https://user-images.githubusercontent.com/91954929/227848234-d8f9091a-2ab1-4fec-9bbd-facc41d30d44.svg" width="320px" />
 
 
 - 📚 I’m currently started to learning Web Development.
