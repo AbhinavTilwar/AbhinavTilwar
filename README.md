@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📈 Highly passionate to convert ideas into code 🤓.
 - 🔭 I’m currently involved in Competitive Programming.
 - 🤓 I have worked on some android apps projects.
-- 🎯 2020-21 Goles : 🌐 Web Development, 
+
 
 <h2 align="center">Connect Me !! 🤝</h2> 
 
