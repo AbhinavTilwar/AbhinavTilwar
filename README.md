@@ -42,8 +42,6 @@ Here are some ideas to get you started:
 
 
 ## 👯 Communities
-* Flutter lead @ Google DSC
-* Event Lead @ CodeChef SITS Chapter
 * Influncer @ Google Crowdsource
 <br>
 
