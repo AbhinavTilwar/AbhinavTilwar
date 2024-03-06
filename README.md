@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📚 I’m currently started to learning Web Development.
 - 📈 Highly passionate to convert ideas into code 🤓.
 - 🔭 I’m currently involved in Competitive Programming.
-- 🤓 I have worked on some android apps projects.
+- 🤓 I have worked on some React apps projects.
 
 
 <h2 align="center">Connect Me !! 🤝</h2> 
