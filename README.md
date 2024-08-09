@@ -4,7 +4,7 @@
 	<img src="https://komarev.com/ghpvc/?username=AbhinavTilwar" alt="AbhinavTilwar" /> 
 </p>
 
-I'm a passionate sophomore student with a keen interest in the field of technology, particularly in cloud computing, machine learning, android, and web development. Pursuing my Btech in Computer Science Engineering from RCOEM Nagpur has enabled me to gain in-depth knowledge and hands-on experience in these areas.
+I'm a passionate final-year undergraduate student with a keen interest in the field of technology, particularly in cloud computing, machine learning, android, and web development. Pursuing my Btech in Computer Science Engineering from RCOEM Nagpur has enabled me to gain in-depth knowledge and hands-on experience in these areas.
 
 Apart from being an enthusiastic learner, I also enjoy sharing my knowledge and expertise with others, especially in the fields of development and programming.
 
